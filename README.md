@@ -8,7 +8,7 @@ This repository contains Python implementations of three fundamental graph algor
 
  Dijkstra’s Algorithm (for shortest paths in weighted graphs)
 
-📌 How to Run
+How to Run
 These are plain .py files. You can run them using:
 python bfs.py
 python dfs.py
